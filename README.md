@@ -11,6 +11,7 @@ size 128.
 
 
 Various parameters of the base model were varied to fine tune the CNN so that it fits the CIFAR-10 dataset well. We trained the model for only one epoch. Increasing the number of epochs, would increase the accuracy.
+
 Please refer to the file "AMP Assignment-1 Report.pdf" for the different model variants that we have experimented with.
 
 Collaborators:
